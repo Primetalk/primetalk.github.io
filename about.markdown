@@ -1,0 +1,45 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: single
+title:  "О компании"
+date:   2023-09-20 12:34:56 +0300
+toc: true
+toc_label: "Содержание"
+toc_icon: "cog"
+# Мета
+#  позиция по ФП
+---
+
+Функциональное программирование недаром стало главным трендом в разработке программного обеспечения. Следование принципам ФП позволяет компаниям создавать программные продукты, которые просто работают и сокращают усилия по исправлению ошибок.
+
+Мы предлагаем трансформацию внутренних процессов компании в сторону практик, нацеленных на создание более корректных программ.
+
+## Услуги
+
+- консалтинг по функциональному программированию;
+- разработка программного обеспечения с использованием современного стека технологий;
+- расширение имеющейся команды нашими экспертами;
+- организация внутреннего обучения сотрудников.
+
+## Проекты
+
+- Библиотека [goio](https://github.com/Primetalk/goio) - реализация `IO`, `Stream`, `Fiber` на языке Go, вдохновлённая превосходными Scala-библиотеками `cats` и `fs2`;
+- Библиотека [slick-migration](https://github.com/Primetalk/slick-migration) - для поддержки миграций БД в форме, совместимой с git;
+- Библиотека [SynapseGrid](https://github.com/Primetalk/SynapseGrid) - для выполнения вычислений на графе на основе сетей Петри;
+- [Речевой портал](/speechportal/technologies.html) - программный продукт, обеспечивающий ведение речевого диалога по телефону с использованием распознавания и синтеза речи.
+
+## Публикации
+
+Можно также ознакомиться с [полным перечнем публикаций](https://primetalk.github.io/talks/).
+
+## Другие проекты
+
+- [typed-ontology](https://github.com/Primetalk/typed-ontology) - концептуальный подход работы с доменной моделью на основе схемы.
+- [rewritable-tree](https://github.com/Primetalk/rewritable-tree) - тайпкласс `RewritableTree`, позволяющий повторно использовать логику переписывания дерева (что часто используется в различных DSL в качестве инструмента оптимизации);
+- [scala 8 queens](https://github.com/Primetalk/scala8queens) - решение задачи 8 ферзей на Scala3 с использованием системы типов и макросов.
+- [advent-tools](https://github.com/Primetalk/advent-tools) - программный инструментарий для решения головоломок Advent of Code.
+
+
+*Notes: [This site address](https://primetalk.github.io/). [Edit the page](https://github.com/Primetalk/primetalk.github.io/edit/master/README.md). [Documentation](https://help.github.com/categories/github-pages-basics/). [Repository settings](https://github.com/Primetalk/primetalk.github.io/settings).*
