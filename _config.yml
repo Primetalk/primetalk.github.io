@@ -1,1 +1,23 @@
-theme: jekyll-theme-merlot
+title: Праймтолк
+email: zhizhelev@primetalk.ru
+description: >- # this means to ignore newlines until "baseurl:"
+  Компания Праймтолк объединяет Scala-экспертов высочайшей квалификации, 
+  чтобы предоставить наиболее взвешенные решения нашим клиентам.
+
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://www.primetalk.ru" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: primetalk
+github_username:  Primetalk
+
+# Build settings
+#theme: minima
+#theme: jekyll-theme-merlot
+theme: minimal-mistakes-jekyll
+
+excerpt_separator: <!--more-->
+locale: ru
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
