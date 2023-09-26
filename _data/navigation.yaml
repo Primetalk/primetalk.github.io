@@ -1,5 +1,7 @@
 main:
  - title: О компании
    url: /about.html
+ - title: Услуги
+   url: /services.html
  - title: Контакты
    url: /contacts.html
