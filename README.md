@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/Primetalk/primetalk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Primetalk/primetalk.github.io/actions/workflows/pages/pages-build-deployment)
+
 ## Welcome to Primetalk
 
 There are the following resources that might be interesting:
