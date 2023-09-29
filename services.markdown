@@ -4,7 +4,7 @@ title:  "Услуги"
 date:   2023-09-24 18:02:00 +0300
 categories: jekyll update
 toc: true
-toc_label: "Содержание"
+toc_label: "Услуги"
 toc_icon: "cog"
 ---
 
