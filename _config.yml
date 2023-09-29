@@ -12,8 +12,8 @@ github_username:  Primetalk
 # Build settings
 #theme: minima
 #theme: jekyll-theme-merlot
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 #excerpt_separator: <!--more-->
 excerpt_separator: "\n\n"
