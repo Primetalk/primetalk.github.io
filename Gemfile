@@ -6,7 +6,7 @@ gem "minima"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
 gem "jekyll-theme-merlot"
-
+gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
