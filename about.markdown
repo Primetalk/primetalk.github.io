@@ -42,6 +42,3 @@ toc_icon: "cog"
 - [rewritable-tree](https://github.com/Primetalk/rewritable-tree) - тайпкласс `RewritableTree`, позволяющий повторно использовать логику переписывания дерева (что часто используется в различных DSL в качестве инструмента оптимизации);
 - [scala 8 queens](https://github.com/Primetalk/scala8queens) - решение задачи 8 ферзей на Scala3 с использованием системы типов и макросов.
 - [advent-tools](https://github.com/Primetalk/advent-tools) - программный инструментарий для решения головоломок Advent of Code.
-
-
-*Notes: [This site address](https://primetalk.github.io/). [Edit the page](https://github.com/Primetalk/primetalk.github.io/edit/master/README.md). [Documentation](https://help.github.com/categories/github-pages-basics/). [Repository settings](https://github.com/Primetalk/primetalk.github.io/settings).*
