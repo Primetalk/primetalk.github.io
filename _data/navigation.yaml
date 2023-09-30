@@ -3,5 +3,7 @@ main:
    url: /about.html
  - title: Услуги
    url: /services.html
+ - title: Публикации
+   url: /talks/
  - title: Контакты
    url: /contacts.html
