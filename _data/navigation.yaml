@@ -5,5 +5,7 @@ main:
    url: /services.html
  - title: Публикации
    url: /talks/
+#  - title: Архив
+#    url: /archive.html
  - title: Контакты
    url: /contacts.html

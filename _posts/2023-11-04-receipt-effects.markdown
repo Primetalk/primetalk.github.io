@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Квитанции как способ отражения сделанной работы на уровне типов"
-date:   2023-09-15 18:34:16 +0300
-categories: scala, type-level programming, receipt effect
+date:   2023-11-04 22:47:00 +0300
+categories: scala
+tags: scala type-level-programming receipt-effect
 toc: false
 toc_label: "Содержание"
 toc_icon: "cog"
